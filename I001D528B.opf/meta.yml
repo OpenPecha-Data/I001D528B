@@ -1,0 +1,25 @@
+id: I001D528B
+initial_creation_type: ebook
+source_metadata:
+  id: SHE-DK_OT-02
+  title: ༄༅། །རང་བྱུང་པདྨའི་སྙིང་ཐིག་སྔོན་འགྲོའི་ཞལ་ཁྲིད་   བྱང་ཆུབ་ལམ་དུ་བགྲོད་པའི་ཐེམ་སྐས་   ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ།
+  authors: &id001
+  - མཛད་པ་པོ། སྐྱབས་རྗེ་དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ།
+  sku: SHE-DK_OT-02
+  cover: SHE-DK_OT-02.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །རང་བྱུང་པདྨའི་སྙིང་ཐིག་སྔོན་འགྲོའི་ཞལ་ཁྲིད་   བྱང་ཆུབ་ལམ་དུ་བགྲོད་པའི་ཐེམ་སྐས་   ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: SHE-DK_OT-02
+  cover: SHE-DK_OT-02.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Yigchung
